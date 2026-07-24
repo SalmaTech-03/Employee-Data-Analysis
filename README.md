@@ -7,6 +7,8 @@ Employee Data Analysis
 ![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
 
 ![License](https://img.shields.io/badge/License-MIT-green)
+
+
 Overview
 
 Employee Data Analysis is a Business Intelligence project that analyzes employee records using MySQL and Power BI. The project focuses on workforce demographics, employee distribution, hiring trends, departmental analysis, and turnover metrics through data cleaning, SQL analysis, and interactive visualizations.
